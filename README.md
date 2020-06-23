@@ -11,6 +11,14 @@ THis is the introductory site for the Git all demo.
 Introduction to GIt.
 
 ## Deployment
-
+Deployment sdfsfsfsdflsjflsjflsfj sfjlsjflsjf sfsfsfs
+sjfsdfsdf
+ lsfjl  sjflksjflj 
+ sfjlsdfj
 ## Development
+
+Developmentsff fasfjlsajfljasfj 
+sflksjfj
+lsfjlsfj
+ sdfjsjf
 
